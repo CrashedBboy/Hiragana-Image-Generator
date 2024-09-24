@@ -2,6 +2,7 @@
 Developed a handwritten Japanese hiragana character generator using a deep diffusion model (U-Net), implemented in Python with PyTorch.
 
 ## Demo: Denoising Diffusion
+Given input prompt: おはいよ ("Good Morning!")  
 ![Denoising Diffusion](https://github.com/CrashedBboy/Hiragana-Image-Generator/blob/main/demo_imgs/goodmorning_denoising.gif?raw=true)
 
 ## Demo: Samples Along Model Training
